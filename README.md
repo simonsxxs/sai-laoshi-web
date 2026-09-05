@@ -31,3 +31,13 @@ npm run dev
 ## 作者
 
 作者：simon | 微信：simonsxxs | 邮箱：simonsxx@qq.com
+
+---
+
+## 作者
+
+**simon**，一个不懂代码的AI极客
+
+- 微信交流群：simonsxxs
+- GitHub：https://github.com/simonsxxs
+- Gitee：https://gitee.com/simonsxx
